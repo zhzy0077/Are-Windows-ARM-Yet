@@ -3,7 +3,7 @@ A repository to track if the Apps I'm using day to day have a ARM version.
 
 | App       | ARM'ed?    | Link                                                                                      | Comment    |
 |-----------|------------|-------------------------------------------------------------------------------------------|------------|
-| Clash     | Yes        | https://github.com/Dreamacro/clash                                                        | ARMv7.     |
+| Clash     | Yes        | https://github.com/Dreamacro/clash                                                        | ARMv7.   There is a ARM64 version built nightly in the repo.   |
 | nssm      | Yes        | https://github.com/zhzy0077/nssm-arm                                                      | unofficial |
 | Edge      | Yes        | https://www.microsoft.com/en-us/edge                                                      |            |
 | Bitwarden | On the way | https://github.com/bitwarden/desktop/pull/667                                             |            |
